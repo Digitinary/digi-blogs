@@ -6,7 +6,7 @@ authorRole: 'Founder & CEO, Digitinary'
 authorBio: 'Founder of Digitinary, focused on digital transformation and Open Banking across the region''s financial and enterprise companies.'
 date: '2026-04-25'
 excerpt: 'Fintech is not competing with banks, it is built on top of them. Here is what a financial institution quietly loses when it treats Open Banking as a compliance requirement instead of a growth platform.'
-coverImage: '/blog-media/open-banking-compliance-checkbox-cost/Cover_Image.webp'
+coverImage: '/blog-media/open-banking-compliance-checkbox-cost/cover_photo.webp'
 tags:
   - Open Banking
   - Compliance
