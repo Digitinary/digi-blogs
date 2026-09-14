@@ -3,7 +3,7 @@ title: 'Open Banking as a Compliance Checkbox: What It Really Costs Financial In
 subtitle: 'Treating Open Banking as a regulatory requirement instead of a growth platform still has a cost, it just does not show up right away.'
 author: 'Salah Abu-Msameh'
 authorRole: 'Founder & CEO, Digitinary'
-authorBio: 'Founder of Digitinary, focused on digital transformation and Open Banking across the region''s financial sector.'
+authorBio: 'Founder of Digitinary, focused on digital transformation and Open Banking across the region''s financial and enterprise companies.'
 date: '2026-04-25'
 excerpt: 'Fintech is not competing with banks, it is built on top of them. Here is what a financial institution quietly loses when it treats Open Banking as a compliance requirement instead of a growth platform.'
 coverImage: '/blog-media/open-banking-compliance-checkbox-cost/Cover_Image.webp'
