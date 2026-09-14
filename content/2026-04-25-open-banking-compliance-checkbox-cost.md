@@ -6,7 +6,7 @@ authorRole: 'Founder & CEO, Digitinary'
 authorBio: 'Founder of Digitinary, focused on digital transformation and Open Banking across the region''s financial sector.'
 date: '2026-04-25'
 excerpt: 'Fintech is not competing with banks, it is built on top of them. Here is what a financial institution quietly loses when it treats Open Banking as a compliance requirement instead of a growth platform.'
-coverImage: '/blog-media/open-banking-compliance-checkbox-cost/Cover_Image.png'
+coverImage: '/blog-media/open-banking-compliance-checkbox-cost/Cover_Image.webp'
 tags:
   - Open Banking
   - Compliance
@@ -33,7 +33,7 @@ Let's be precise about this.
 
 In other words, the bank is the foundation fintech builds its business on. The relationship between the two is inherently complementary, not competitive.
 
-![Diagram showing fintech as a layer built on top of the banking system](/blog-media/open-banking-compliance-checkbox-cost/diagram-fintech-layer.png)
+![Diagram showing fintech as a layer built on top of the banking system](/blog-media/open-banking-compliance-checkbox-cost/diagram-fintech-layer.webp)
 
 ## A Direction No One Can Stop
 
