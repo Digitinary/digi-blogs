@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks and attributes
+._*
+
+# macOS Trash
+.Trashes
+
+# macOS Finder tags
+.fseventsd
+.fseventsd/*
+
+# macOS Spotlight
+.Spotlight-V100
+
+# macOS temporary files
+*.swp
+*.swo
+*~
+
+# macOS compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node (if ever used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if ever used)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
