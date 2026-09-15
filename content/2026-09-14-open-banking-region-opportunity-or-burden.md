@@ -35,6 +35,8 @@ These banks, and there aren't many of them, treated Open Banking not as a techni
 
 According to McKinsey, the MENAP region is seeing fintech revenue grow at **35% a year through 2028**, compared to a global average of 15%. The banks helping build this ecosystem today are the ones that will collect its benefits tomorrow.
 
+![MENAP region is seeing fintech revenue grow](/blog-media/open-banking-region-opportunity-or-burden/mckinsey_fintech_revenue.webp)
+
 ## Most Banks Are Still Waiting for Regulation
 
 Most of the banks we've visited, though, are still in wait-and-see mode. For them, dealing with Open Banking means: *"let's wait for the final regulation, then do the minimum required."* That thinking is understandable, but it's costly.
