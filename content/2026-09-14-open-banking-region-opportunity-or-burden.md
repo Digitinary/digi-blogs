@@ -6,7 +6,7 @@ authorRole: 'Founder & CEO, Digitinary'
 authorBio: 'Founder of Digitinary, focused on digital transformation, APIs, and Open Banking / Finance across the region''s financial and enterprise companies.'
 date: '2026-09-14'
 excerpt: 'Across our meetings with banks in the region, most still see Open Banking as a compliance task, not a growth platform. Here is what separates the banks leading this shift from the ones about to be left behind.'
-coverImage: '/blog-media/open-banking-region-opportunity-or-burden/cover.webp'
+coverImage: '/blog-media/open-banking-region-opportunity-or-burden/cover_2.webp'
 tags:
   - Open Banking
   - Banking Strategy
@@ -24,7 +24,7 @@ seoKeywords:
   - 'Banking Regulation'
 coverImageAlt: 'Open Banking in the region: an opportunity for some, a burden for others'
 updatedDate: '2026-09-14'
-ogImage: '/blog-media/open-banking-region-opportunity-or-burden/cover.webp'
+ogImage: '/blog-media/open-banking-region-opportunity-or-burden/cover_2.webp'
 ---
 
 During our field visits to local and regional banks over the past few years, we've made it a habit to ask one question in every meeting: **"How do you see Open Banking?"** What surprises us each time isn't how different the answers are, it's how similar they are. Most financial institutions in the region still treat this topic as nothing more than a **regulatory compliance** item. Only a small, but promising, group has started to realize that this shift may be the biggest **strategic opportunity** the banking sector will see this decade.
