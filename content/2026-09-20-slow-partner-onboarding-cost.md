@@ -72,7 +72,7 @@ The difference is simple but fundamental: you're not closing the door. You're pu
 
 ## The cost of delay no one talks about
 
-The numbers here are clear. Industry reports show that manual onboarding through email or support tickets can take anywhere from days to weeks — compared to just minutes through a well-built self-serve portal (source: DigitalAPI.ai).
+The numbers here are clear. Industry reports show that manual onboarding through email or support tickets can take anywhere from days to weeks — compared to just minutes through a well-built self-serve portal.
 
 That lost time isn't just time. It's partnership opportunities disappearing quietly:
 
@@ -103,6 +103,4 @@ Real security isn't about closing every door. Real security is about knowing whe
 
 ## Sources
 
-- [Streamline Partner Onboarding with Self-Serve Sandbox APIs](https://www.digitalapi.ai/blogs/streamline-partner-onboarding-with-self-serve-sandbox-apis), DigitalAPI.ai
-- [Best Practices for Onboarding External Developers Fast](https://www.digitalapi.ai/blogs/best-practices-for-onboarding-external-developers), DigitalAPI.ai
 - [API Security Risks: The 10 Most Exploited in 2026](https://cybelangel.com/blog/api-security-risks/), CybelAngel (citing a Lunar.dev survey)
