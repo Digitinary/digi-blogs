@@ -7,7 +7,7 @@ authorBio: 'Founder of Digitinary, focused on digital transformation, APIs, and 
 date: '2026-09-20'
 excerpt: 'Locking down developer portals to control partner onboarding feels safe, but it quietly costs institutions time, revenue, and partnerships. Here is a better way to balance security and access.'
 tags:
-  - 'Open Banking'
+  - 'API'
   - 'API Security'
   - 'Developer Experience'
   - 'Fintech'
