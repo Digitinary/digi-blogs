@@ -19,3 +19,5 @@ This collaboration highlighted our continued commitment to advancing **financial
 Digitinary continues to drive progress in **Open Banking** and **digital finance**, empowering institutions to build smarter, more connected financial services.
 
 To explore Digitinary's Open Banking solution, visit [finhive.tech](https://finhive.tech/)
+
+-
