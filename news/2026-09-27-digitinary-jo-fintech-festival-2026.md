@@ -2,23 +2,22 @@
 
 **Date:** September 27, 2026
 **Slug:** digitinary-jo-fintech-festival-2026
-**Image:** /blog-media/digitinary-jo-fintech-festival-2026/joff2026_cover_photo.webp
-**seoTitle**: 'Digitinary at JO Fintech Festival 2026 | Open Banking Panel & TakamolHub'
-**seoDescription**: 'Digitinary joined JO Fintech Festival 2026 at the Dead Sea, spoke on the Open Banking panel, and announced TakamolHub with Madfoatcom.'
+**Image:** /blog-media/digitinary-jo-fintech-festival-2026/cover_photo.webp
+**seoTitle**: 'Digitinary at JO Fintech Festival 2026 | Open Banking in Jordan'
+**seoDescription**: 'Digitinary joined JO Fintech Festival 2026 at the Dead Sea, spoke on the Open Banking panel, and met the Central Bank of Jordan team.'
 **seoKeywords**:
   - 'JO Fintech Festival 2026'
   - 'Open Banking Jordan'
   - 'Open Finance'
-  - 'TakamolHub'
-  - 'Madfoatcom'
   - 'Central Bank of Jordan'
+  - 'Fintech Innovation'
   - 'Digitinary'
   - 'Fintech'
 
 
 ## Description
 
-Digitinary took part in JO Fintech Festival 2026 at the Dead Sea, where our Managing Director Salah Abu Msameh spoke on the Open Banking panel and we announced our partnership with Madfoatcom to launch TakamolHub, a shared infrastructure for Open Banking and Open Finance in Jordan.
+Digitinary took part in JO Fintech Festival 2026 at the Dead Sea, where our Managing Director Salah Abu Msameh spoke on the Open Banking panel and our team met the Central Bank of Jordan and leaders from across the fintech ecosystem.
 
 ## Content
 
@@ -26,13 +25,17 @@ Digitinary was proud to take part in **JO Fintech Festival 2026**, organised by 
 
 For us, it was two days of real conversations about where Jordan's Open Finance journey is today, and what it needs to move faster.
 
-### A new partnership: TakamolHub with Madfoatcom
+### A great opportunity to engage and learn
 
-The biggest moment for us at the festival was announcing our partnership with **Madfoatcom** to launch **TakamolHub**.
+The festival was a great opportunity for Digitinary and our team to engage with the fintech community, explore new technologies, and learn from the experiences of banks, fintechs and technology leaders from Jordan and the region.
 
-TakamolHub will serve as an infrastructure for **Open Banking and Open Finance in Jordan**. It is designed to enable the whole sector, especially fintechs, to connect with financial institutions through one reliable hub. The platform is built entirely on Digitinary's own technology.
+Our team joined sessions, visited partners and exchanged ideas with people who are shaping the future of digital finance. These conversations help us stay close to the real needs of the market and bring fresh ideas back into the products we build.
 
-This partnership brings together Madfoatcom's strong position in Jordan's payments space and Digitinary's experience in Open Banking infrastructure, to help the market move from regulation to real, working services.
+### Meeting the regulator
+
+One of the most valuable parts of the festival was meeting the **Central Bank of Jordan** team. We had open discussions about how the Central Bank supports innovation in fintech, and how this support can help us build the services and infrastructure needed to strengthen Jordan's financial ecosystem as a whole.
+
+We value this close dialogue with the regulator. It gives us confidence and clear direction as we keep building solutions that serve banks, fintechs and, in the end, customers.
 
 ### On stage: "APIs, Data & Trust: The Three Pillars of Open Banking Success"
 
@@ -48,12 +51,8 @@ During the session, Salah shared Digitinary's practical view as a technology pro
 
 Salah closed by highlighting the three pillars behind any successful Open Finance market: **clear legislation**, a **complete technical and operational framework**, and an **actual mandate** for data providers. Jordan already has the foundations in place, and the next step is moving quickly toward implementation, starting with a clear minimal scope and improving along the way.
 
-### Meeting the ecosystem
-
-Beyond the panel and the partnership announcement, our team spent the festival meeting partners, banks, fintechs and the organisers and strategic partners of the event. These conversations are an important part of how we build, by listening to the real needs of the market.
-
 ### Thank you
 
-We would like to thank the **Central Bank of Jordan** and all the organisers and partners of JO Fintech Festival 2026 for a well-run and valuable event. A special thank you to **Madfoatcom** for their trust and partnership.
+We would like to thank the **Central Bank of Jordan** and all the organisers and partners of JO Fintech Festival 2026 for a well-run and valuable event.
 
 Digitinary will keep working with the ecosystem to help turn Jordan's Open Finance vision into real services that banks, fintechs and customers can use every day.
