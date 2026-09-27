@@ -31,7 +31,7 @@ The initiative aims to help banks and financial institutions expose their open b
 The partnership brings together:
 
 - **MadfoatCom's experience** as the operator of Jordan's national **eFAWATEERcom** system, and its relationships with banks and billers built over more than a decade.
-- **Digitinary's capabilities** in API management, open banking compliance solutions and integrations through the [Wasl API Platform](https://lnkd.in/d9Dv7tnn).
+- **Digitinary's capabilities** in API management, open banking compliance solutions and integrations through the [Wasl API Platform](https://digitinary.com/wasl).
 
 ### What the hub will offer
 
