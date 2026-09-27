@@ -35,7 +35,7 @@ The partnership brings together:
 
 ### What the hub will offer
 
-The proposed hub will offer **unified connectivity and compliance tools** to support Open Banking and Open Finance services, in line with the **Central Bank of Jordan's** requirements and its vision for digital transformation and financial inclusion.
+The proposed hub will offer **unified and centralzied infrastructure, connectivity, accessability and compliance tools** to support Open Banking and Open Finance services for fintech and TPPs, in line with the **Central Bank of Jordan's** requirements and its vision for digital transformation and financial inclusion.
 
 ### Next steps
 
