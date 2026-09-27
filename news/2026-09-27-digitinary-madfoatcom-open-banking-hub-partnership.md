@@ -2,7 +2,7 @@
 
 **Date:** September 27, 2026
 **Slug:** digitinary-madfoatcom-open-banking-hub-partnership
-**Image:** /blog-media/digitinary-madfoatcom-open-banking-hub-partnership/parnership_ann_cover_photo.webp
+**Image:** /blog-media/digitinary-jo-fintech-festival-2026/parnership_ann_cover_photo.webp
 **seoTitle**: 'Digitinary & MadfoatCom Partner on Open Banking Hub in Jordan'
 **seoDescription**: 'Digitinary and MadfoatCom signed a strategic partnership at JO Fintech Festival 2026 to build a central Open Banking and Open Finance hub in Jordan.'
 **seoKeywords**:
