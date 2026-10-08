@@ -63,7 +63,10 @@ According to a 2026 study, 85% of developers use AI tools while coding, and trad
 
 In other words, an institution that hasn't solved the basic documentation problem is actually behind twice over — once on the fundamentals, and once on this entirely new wave.
 
-> **Note:** Falling behind on documentation doesn't just cost you human developers anymore. It costs you AI agents too.
+<div class="callout callout-note">
+  <p class="callout-label">Note</p>  
+  <p>Falling behind on documentation doesn't just cost you human developers anymore. It costs you AI agents too.</p>
+</div>
 
 ## It's not just an external problem
 
