@@ -28,7 +28,7 @@ seoKeywords:
   - 'Fintech Sandbox'
   - 'Open Innovation'
 coverImageAlt: 'API Platform Series cover: The Innovation Hub Is a Platform, not an event, not a page'
-updatedDate: '2026-10-25'
+updatedDate: '2026-10-26'
 ogImage: '/blog-media/enterprise-innovation-hub-platform/cover.webp'
 ---
 
